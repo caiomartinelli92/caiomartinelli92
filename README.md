@@ -1,6 +1,6 @@
 ## Olá, meu nome é Caio. Bem vindo ao meu perfil!
 
-Sou formado em Análise e Desenvolvimento de sistemas, e meu principal foco de estudo é o desenvolvimento backend.
+Sou formado em Análise e Desenvolvimento de sistemas, e meu principal foco de estudo é em desenvolvimento backend.
 
 Minhas principais stacks são:
 
