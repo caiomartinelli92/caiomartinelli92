@@ -13,5 +13,5 @@ Meu projeto mais recente foi a criação de uma API de investimentos Fake que de
 
 ##Se sinta a vontade para entrar em contato através das redes sociais:
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caio-ricardo-martinelli-2119b71a0/)](https://www.linkedin.com/in/caio-ricardo-martinelli-2119b71a0/)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:caio.martinelli@gmail.com)](mailto:caio.martinelli@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-CaioMartinelli-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caio-ricardo-martinelli-2119b71a0/)](https://www.linkedin.com/in/caio-ricardo-martinelli-2119b71a0/)
+[![Gmail Badge](https://img.shields.io/badge/-caio.martinelli@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:caio.martinelli@gmail.com)](mailto:caio.martinelli@gmail.com)
