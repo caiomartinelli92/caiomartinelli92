@@ -11,7 +11,7 @@ Atualmente estou estudando Asp.Net e aprimorando meus conhecimentos em C# e SQL 
 
 Meu projeto mais recente foi a criação de uma API de investimentos Fake que desenvolvi para estudos. Fique a vontade para conferir o código!
 
-##Se sinta a vontade para entrar em contato através das redes sociais:
+### Sinta-se a vontade para entrar em contato através das redes sociais:
 
 [![Linkedin](https://img.shields.io/badge/-CaioMartinelli-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caio-ricardo-martinelli-2119b71a0/)](https://www.linkedin.com/in/caio-ricardo-martinelli-2119b71a0/)
 [![Gmail Badge](https://img.shields.io/badge/-caio.martinelli@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:caio.martinelli@gmail.com)](mailto:caio.martinelli@gmail.com)
